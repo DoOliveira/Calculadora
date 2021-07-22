@@ -37,4 +37,4 @@ function teclado() {
   }
 
   document.getElementById('resultado') /*vou precisar colocar um input porque o paragrafo não reconhece as teclas, só o input, mudar no css e html*/
-}
+} 
